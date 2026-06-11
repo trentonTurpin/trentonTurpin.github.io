@@ -248,7 +248,7 @@ exclude:
   - _pages/dropdown.md
   - _pages/profiles.md
   - _pages/projects.md
-  - _pages/respositories.md
+  - _pages/repositories.md
   - _pages/teaching.md
   - _bibliography/*
   - _pages/publications.md
