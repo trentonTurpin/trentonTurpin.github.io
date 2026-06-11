@@ -240,6 +240,16 @@ exclude:
   - migrations/
   - vendor
   - _projects/*
+  - _posts/*
+  - _books/*
+  - _teachings/*
+  - _pages/blog.md
+  - _pages/books.md
+  - _pages/dropdown.md
+  - _pages/profiles.md
+  - _pages/projects.md
+  - _pages/respositories.md
+  - _pages/teaching.md
 keep_files:
   - CNAME
   - .nojekyll
