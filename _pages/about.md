@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>School of Chemistry and Biochemistry</p>
     <p>Georgia Tech</p>
-    <p>901 Atlantic Drrive, NW.</p>
+    <p>901 Atlantic Drive, NW.</p>
     <p>Atlanta, GA 30332</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
